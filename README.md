@@ -31,11 +31,11 @@ This project is a simple counter application. It allows users to increase or dec
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/counter.git
+    git clone https://github.com/kulkasturi/BasicCounter.git
     ```
 2. **Navigate to the project directory:**
     ```bash
-    cd counter
+    cd BasicCounter
     ```
 
 ### Running the Project
@@ -69,8 +69,7 @@ counter/
 - Click the "Lower" button to decrease the counter value.
 - Observe the color change of the counter value based on whether it is positive, negative, or zero.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 ## Contributing
 1. Fork the repository.
@@ -80,8 +79,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 5. Create a new Pull Request.
 
 ## Contact
-For any questions or suggestions, please contact me at [your.email@example.com](mailto:your.email@example.com).
+For any questions or suggestions, please contact me at (mailto:kulkasturi26@gmail.com).
 
 ---
 
-Feel free to customize this README file as needed for your specific project requirements. Make sure to replace placeholders such as `yourusername` and `your.email@example.com` with your actual GitHub username and email address.
